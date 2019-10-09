@@ -8,13 +8,7 @@ class Triangle
   end
 
   def kind
-    array = Array([side_a, side_b, side_c])
-    triangle_type
-  end
-
-
-  def triangle_type
-    
-  end
+    if (side_a == side_b) && (side_b == side_c)
+      :equilateral
 
 end
