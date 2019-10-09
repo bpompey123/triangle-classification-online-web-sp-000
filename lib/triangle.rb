@@ -13,7 +13,9 @@ class Triangle
 
 
   def triangle_type
-    
+    if side_a == side_b == side_c
+      ":equilateral"
+    end
   end
 
 end
