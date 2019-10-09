@@ -8,6 +8,7 @@ class Triangle
   end
 
   def kind
+    array = Array([side_a, side_b, side_c])
     triangle_type
   end
 
