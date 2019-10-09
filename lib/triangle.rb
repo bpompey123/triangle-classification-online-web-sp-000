@@ -6,4 +6,6 @@ class Triangle
     @side_b= side_b
     @side_c= side_c
   end
+
+  
 end
