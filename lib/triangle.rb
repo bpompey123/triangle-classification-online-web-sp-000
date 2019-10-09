@@ -13,5 +13,7 @@ class Triangle
 
 
   def triangle_type
+    
+  end
 
 end
