@@ -8,6 +8,6 @@ class Triangle
   end
 
   def kind
-    @type
+    
   end
 end
